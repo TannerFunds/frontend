@@ -114,7 +114,7 @@ function App() {
     return (
       <div className="login-container">
         <div className="login-card">
-          <h1>TailingsIQ</h1>
+          <h1>🏗️ TailingsIQ</h1>
           <p>Tailings Management System</p>
           
           {error && (
